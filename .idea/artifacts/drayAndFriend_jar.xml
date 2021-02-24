@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="drayAndFriend:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/drayAndFriend_jar</output-path>
+    <root id="archive" name="drayAndFriend.jar">
+      <element id="module-output" name="drayAndFriend" />
+    </root>
+  </artifact>
+</component>
